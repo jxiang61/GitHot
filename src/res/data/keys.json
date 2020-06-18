@@ -1,0 +1,174 @@
+[
+  {
+    "path": "stars:>1",
+    "name": "ALL",
+    "short_name": "ALL",
+    "checked": true
+  },
+  {
+  "path": "MySQL",
+  "name": "MySQL",
+  "checked": true
+  },
+  {
+    "path": "mongodb",
+    "name": "MongoDB",
+    "checked": false
+  },
+  {
+    "path": "redis",
+    "name": "Redis",
+    "checked": false
+  },
+  {
+    "path": "oracle",
+    "name": "Oracle",
+    "checked": true
+  },
+  {
+    "path": "nodejs",
+    "name": "Node",
+    "checked": false
+  },
+  {
+    "path": "AngularJS",
+    "name": "AngularJS",
+    "checked": false
+  },
+  {
+    "path": "jQuery",
+    "name": "jQuery",
+    "checked": false
+  },
+  {
+    "path": "react",
+    "name": "React",
+    "checked": true
+  },
+  {
+    "path": "vue",
+    "name": "Vue",
+    "checked": true
+  },
+  {
+    "path": "bootstrap",
+    "name": "Bootstrap",
+    "checked": false
+  },
+  {
+    "path": "react-native",
+    "name": "React Native",
+    "checked": true
+  },
+  {
+    "path": "flutter",
+    "name": "Flutter",
+    "checked": false
+  },
+  {
+  "path": "iOS",
+  "name": "iOS",
+  "checked": false
+  },
+  {
+    "path": "android",
+    "name": "Android",
+    "checked": true
+  },
+  {
+    "path": "linux",
+    "name": "Linux",
+    "checked": false
+  },
+  {
+    "path": "pytorch",
+    "name": "PyTorch",
+    "checked": false
+  },
+  {
+    "path": "tensorflow",
+    "name": "Tensorflow",
+    "checked": false
+  },
+  {
+    "path": "spring",
+    "name": "Spring",
+    "checked": false
+  },
+  {
+    "path": "springboot",
+    "name": "SpringBoot",
+    "checked": false
+  },
+  {
+    "path": "springcloud",
+    "name": "Spring Cloud",
+    "checked": false
+  },
+  {
+    "path": "hibernate",
+    "name": "Hibernate",
+    "checked": false
+  },
+  {
+    "path": "mybatis",
+    "name": "MyBatis",
+    "checked": false
+  },
+  {
+  "path": "expressjs",
+  "name": "ExpressJS",
+  "checked": false
+  },
+  {
+    "path": "django",
+    "name": "Django",
+    "checked": false
+  },
+  {
+    "path": "flask",
+    "name": "Flask",
+    "checked": false
+  },
+  {
+  "path": "aws",
+  "name": "AWS",
+  "checked": false
+  },
+  {
+  "path": "azure",
+  "name": "Azure",
+  "checked": false
+  },
+  {
+  "path": "gcp",
+  "name": "GCP",
+  "checked": false
+  },
+  {
+  "path": "heroku",
+  "name": "Heroku",
+  "checked": false
+  },
+  {
+    "path": "hadoop",
+    "name": "Hadoop",
+    "checked": false
+  },
+  {
+    "path": "spark",
+    "name": "Spark",
+    "checked": false
+  },
+  {
+    "path": "docker",
+    "name": "Docker",
+    "checked": false
+  },
+  {
+    "path": "kubernetes",
+    "name": "Kubernetes",
+    "checked": false
+  },
+
+]

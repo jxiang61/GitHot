@@ -1,0 +1,5 @@
+<resources>
+
+    <string moduleConfig="true" name="CodePushDeploymentKey">tVXFDTBba5GAxrLRKtX7ZQzH9wjBd3158ba3-9013-48f6-b168-fe57d1114223</string>
+    <string name="app_name">GitHot</string>
+</resources>
