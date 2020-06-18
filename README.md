@@ -7,10 +7,9 @@ React Native + Redux + Redux-thunk + react-navigation + AsyncStorage + React Nat
 
 ## Demo
 
-<div style ="text-align：center"> 
+<span align="center"> 
 <img src="https://github.com/jxiang61/GitHot/blob/master/images/0.png" margin-right='20px' width="400" align="center"> 
-</div>
- 
+</span>
 
 <img src="https://github.com/jxiang61/GitHot/blob/master/images/1.png" width="200"><img src="https://github.com/jxiang61/GitHot/blob/master/images/2.png" width="200">  <img src="https://github.com/jxiang61/GitHot/blob/master/images/3.png" width="200">
 
